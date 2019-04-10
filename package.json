@@ -1,0 +1,35 @@
+{
+  "name": "i18n-placeholder-loader",
+  "version": "0.1.0",
+  "description": "i18n placeholder  webpack loader",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veici/i18n-placeholder-loader.git"
+  },
+  "keywords": [
+    "i18n",
+    "placeholder",
+    "webpack",
+    "loader"
+  ],
+  "author": "veici",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veici/i18n-placeholder-loader/issues"
+  },
+  "homepage": "https://github.com/veici/i18n-placeholder-loader#readme",
+  "devDependencies": {
+    "babel-jest": "^24.7.1",
+    "babel-preset-env": "^1.7.0",
+    "del": "^4.1.0",
+    "jest": "^24.7.1",
+    "memory-fs": "^0.4.1",
+    "raw-loader": "^2.0.0",
+    "webpack": "^4.29.6",
+    "webpack-merge": "^4.2.1"
+  }
+}
